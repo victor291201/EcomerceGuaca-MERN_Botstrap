@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/css/main.49b2561a.chunk.css",
-    "main.js": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/main.b0b1c07d.chunk.js",
-    "main.js.map": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/main.b0b1c07d.chunk.js.map",
-    "runtime-main.js": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.a51893ac.js",
-    "runtime-main.js.map": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.a51893ac.js.map",
-    "static/js/2.daaa3d46.chunk.js": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/2.daaa3d46.chunk.js",
-    "static/js/2.daaa3d46.chunk.js.map": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/2.daaa3d46.chunk.js.map",
-    "index.html": "/victor291201/EcomerceGuaca-MERN_Botstrap/index.html",
-    "static/css/main.49b2561a.chunk.css.map": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/css/main.49b2561a.chunk.css.map",
-    "static/js/2.daaa3d46.chunk.js.LICENSE.txt": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/2.daaa3d46.chunk.js.LICENSE.txt",
-    "static/media/logo.bcc7aa38.png": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/logo.bcc7aa38.png",
-    "static/media/tenis-amarillo.46c41909.jfif": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/tenis-amarillo.46c41909.jfif",
-    "static/media/tenis-azul.a804ce90.jfif": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/tenis-azul.a804ce90.jfif",
-    "static/media/tenis-gris.a64c8979.jfif": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/tenis-gris.a64c8979.jfif",
-    "static/media/tenis-naranjado.4c6095c1.jfif": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/tenis-naranjado.4c6095c1.jfif",
-    "static/media/tenis-negro.2459712c.jfif": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/tenis-negro.2459712c.jfif",
-    "static/media/tenis-rojo.ce23d9d7.jfif": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/tenis-rojo.ce23d9d7.jfif",
-    "static/media/tenis-rosado.4ddb52b2.jfif": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/tenis-rosado.4ddb52b2.jfif",
-    "static/media/tenis-verde.2a927ecf.jfif": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/media/tenis-verde.2a927ecf.jfif"
+    "main.css": "/EcomerceGuaca-MERN_Botstrap/static/css/main.49b2561a.chunk.css",
+    "main.js": "/EcomerceGuaca-MERN_Botstrap/static/js/main.812bc9e5.chunk.js",
+    "main.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/main.812bc9e5.chunk.js.map",
+    "runtime-main.js": "/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.117a3aa7.js",
+    "runtime-main.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.117a3aa7.js.map",
+    "static/js/2.daaa3d46.chunk.js": "/EcomerceGuaca-MERN_Botstrap/static/js/2.daaa3d46.chunk.js",
+    "static/js/2.daaa3d46.chunk.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/2.daaa3d46.chunk.js.map",
+    "index.html": "/EcomerceGuaca-MERN_Botstrap/index.html",
+    "static/css/main.49b2561a.chunk.css.map": "/EcomerceGuaca-MERN_Botstrap/static/css/main.49b2561a.chunk.css.map",
+    "static/js/2.daaa3d46.chunk.js.LICENSE.txt": "/EcomerceGuaca-MERN_Botstrap/static/js/2.daaa3d46.chunk.js.LICENSE.txt",
+    "static/media/logo.bcc7aa38.png": "/EcomerceGuaca-MERN_Botstrap/static/media/logo.bcc7aa38.png",
+    "static/media/tenis-amarillo.46c41909.jfif": "/EcomerceGuaca-MERN_Botstrap/static/media/tenis-amarillo.46c41909.jfif",
+    "static/media/tenis-azul.a804ce90.jfif": "/EcomerceGuaca-MERN_Botstrap/static/media/tenis-azul.a804ce90.jfif",
+    "static/media/tenis-gris.a64c8979.jfif": "/EcomerceGuaca-MERN_Botstrap/static/media/tenis-gris.a64c8979.jfif",
+    "static/media/tenis-naranjado.4c6095c1.jfif": "/EcomerceGuaca-MERN_Botstrap/static/media/tenis-naranjado.4c6095c1.jfif",
+    "static/media/tenis-negro.2459712c.jfif": "/EcomerceGuaca-MERN_Botstrap/static/media/tenis-negro.2459712c.jfif",
+    "static/media/tenis-rojo.ce23d9d7.jfif": "/EcomerceGuaca-MERN_Botstrap/static/media/tenis-rojo.ce23d9d7.jfif",
+    "static/media/tenis-rosado.4ddb52b2.jfif": "/EcomerceGuaca-MERN_Botstrap/static/media/tenis-rosado.4ddb52b2.jfif",
+    "static/media/tenis-verde.2a927ecf.jfif": "/EcomerceGuaca-MERN_Botstrap/static/media/tenis-verde.2a927ecf.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.a51893ac.js",
+    "static/js/runtime-main.117a3aa7.js",
     "static/js/2.daaa3d46.chunk.js",
     "static/css/main.49b2561a.chunk.css",
-    "static/js/main.b0b1c07d.chunk.js"
+    "static/js/main.812bc9e5.chunk.js"
   ]
 }
