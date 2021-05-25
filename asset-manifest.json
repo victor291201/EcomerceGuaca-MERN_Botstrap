@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/css/main.49b2561a.chunk.css",
-    "main.js": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/main.a389e5b4.chunk.js",
-    "main.js.map": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/main.a389e5b4.chunk.js.map",
+    "main.js": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/main.9516b0d1.chunk.js",
+    "main.js.map": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/main.9516b0d1.chunk.js.map",
     "runtime-main.js": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.a51893ac.js",
     "runtime-main.js.map": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.a51893ac.js.map",
     "static/js/2.daaa3d46.chunk.js": "/victor291201/EcomerceGuaca-MERN_Botstrap/static/js/2.daaa3d46.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.a51893ac.js",
     "static/js/2.daaa3d46.chunk.js",
     "static/css/main.49b2561a.chunk.css",
-    "static/js/main.a389e5b4.chunk.js"
+    "static/js/main.9516b0d1.chunk.js"
   ]
 }
