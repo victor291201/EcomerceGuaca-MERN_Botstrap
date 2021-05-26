@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/EcomerceGuaca-MERN_Botstrap/static/css/main.49b2561a.chunk.css",
-    "main.js": "/EcomerceGuaca-MERN_Botstrap/static/js/main.3dc8300d.chunk.js",
-    "main.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/main.3dc8300d.chunk.js.map",
+    "main.js": "/EcomerceGuaca-MERN_Botstrap/static/js/main.f2265da6.chunk.js",
+    "main.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/main.f2265da6.chunk.js.map",
     "runtime-main.js": "/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.117a3aa7.js",
     "runtime-main.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.117a3aa7.js.map",
     "static/js/2.cfb4da46.chunk.js": "/EcomerceGuaca-MERN_Botstrap/static/js/2.cfb4da46.chunk.js",
     "static/js/2.cfb4da46.chunk.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/2.cfb4da46.chunk.js.map",
     "index.html": "/EcomerceGuaca-MERN_Botstrap/index.html",
-    "service-worker.js": "/EcomerceGuaca-MERN_Botstrap/service-worker.js",
-    "service-worker.js.map": "/EcomerceGuaca-MERN_Botstrap/service-worker.js.map",
     "static/css/main.49b2561a.chunk.css.map": "/EcomerceGuaca-MERN_Botstrap/static/css/main.49b2561a.chunk.css.map",
     "static/js/2.cfb4da46.chunk.js.LICENSE.txt": "/EcomerceGuaca-MERN_Botstrap/static/js/2.cfb4da46.chunk.js.LICENSE.txt",
     "static/media/logo.bcc7aa38.png": "/EcomerceGuaca-MERN_Botstrap/static/media/logo.bcc7aa38.png",
@@ -26,6 +24,6 @@
     "static/js/runtime-main.117a3aa7.js",
     "static/js/2.cfb4da46.chunk.js",
     "static/css/main.49b2561a.chunk.css",
-    "static/js/main.3dc8300d.chunk.js"
+    "static/js/main.f2265da6.chunk.js"
   ]
 }
