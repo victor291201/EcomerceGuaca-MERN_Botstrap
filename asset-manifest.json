@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/EcomerceGuaca-MERN_Botstrap/static/css/main.49b2561a.chunk.css",
-    "main.js": "/EcomerceGuaca-MERN_Botstrap/static/js/main.81b82b1f.chunk.js",
-    "main.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/main.81b82b1f.chunk.js.map",
+    "main.js": "/EcomerceGuaca-MERN_Botstrap/static/js/main.b0b8eac9.chunk.js",
+    "main.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/main.b0b8eac9.chunk.js.map",
     "runtime-main.js": "/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.117a3aa7.js",
     "runtime-main.js.map": "/EcomerceGuaca-MERN_Botstrap/static/js/runtime-main.117a3aa7.js.map",
     "static/js/2.cfb4da46.chunk.js": "/EcomerceGuaca-MERN_Botstrap/static/js/2.cfb4da46.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.117a3aa7.js",
     "static/js/2.cfb4da46.chunk.js",
     "static/css/main.49b2561a.chunk.css",
-    "static/js/main.81b82b1f.chunk.js"
+    "static/js/main.b0b8eac9.chunk.js"
   ]
 }
