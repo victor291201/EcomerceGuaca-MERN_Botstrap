@@ -14,7 +14,7 @@ import axios from "axios";
 
 const App = (props) => {
 	const [Values, setValues] = useState({
-		logueado:false,
+		logueado:true,
 		usr:{},
 		id:""
 	});
